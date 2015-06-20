@@ -33,7 +33,7 @@ namespace GeorgRinger\News\Service;
 class SettingsService {
 
 	/**
-	 * @var mixed
+	 * @var array|null
 	 */
 	protected $settings = NULL;
 
