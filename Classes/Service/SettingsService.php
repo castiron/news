@@ -32,7 +32,7 @@ class SettingsService
 {
 
     /**
-     * @var mixed
+     * @var array
      */
     protected $settings = null;
 
